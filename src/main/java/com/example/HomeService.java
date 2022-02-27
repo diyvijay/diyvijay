@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 public class HomeService {
 
 	public String sayHello() {
-		return "Hello World from spring test dal azure";
+		return "Hello World from spring test dal azure done successfully";
 	}
 }
